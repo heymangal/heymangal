@@ -44,8 +44,8 @@ I'm **Mangal Makwana**, a passionate and results-driven Unity Game Developer bas
 
 ### 🏢 Previous Roles
 
-- **AIS Technolabs** – Casino Game Development
-- **Aani Brothers Infotech** – Unity Plugin & Native Integrations
+- **AIS Technolabs** – Senior Game Developer
+- **Aani Brothers Infotech** – Game Developer
 
 ---
 
